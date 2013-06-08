@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Project name="monkey" author="" >
+<exp obj="Itenery" type="Concept" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Type" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Description" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Name" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Id" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Duration" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Places" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Budget" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Reference" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="ListPlaces" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Itenery5" c="Itenery" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Itenery0" c="Itenery" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+</Project>

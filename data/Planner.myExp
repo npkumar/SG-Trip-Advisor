@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Project name="Planner" author="" >
+<exp obj="Planner" type="Concept" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Itenery" type="Concept" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Name" c="Itenery" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Duration" c="Itenery" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Budget" c="Itenery" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="7" c="Itenery" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Reference" c="Itenery" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="7" c="Itenery" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="1" c="Itenery" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="ListPlaces" c="Itenery" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Places" c="Itenery" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Description" c="Itenery" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Type" c="Itenery" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Id" c="Itenery" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Itenery104" c="Itenery" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Itenery0" c="Itenery" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Itenery15" c="Itenery" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Itenery10" c="Itenery" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="e" c="Planner" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Itenery108" c="Itenery" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Itenery90" c="Itenery" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Itenery1" c="Itenery" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+</Project>

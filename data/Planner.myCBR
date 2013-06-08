@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Project name="Planner" author="" >
+<svs>
+  <sv name="_unknown_"/>
+  <sv name="_undefined_"/>
+<fct name="default function" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="_unknown_">
+</qsym>
+<qsym name="_undefined_">
+</qsym>
+</fct>
+</svs>
+<model>
+  <concept name="Itenery">
+    <desc name="Description" type="String" mult="false" >
+      <fct name="default function" type="String" symm="true" config="EQUALITY" n="3" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <desc name="Type" type="Symbol" mult="false" >
+      <symbol value="VERY LONG TOUR" />
+      <symbol value="SHORT TOUR" />
+      <symbol value="LONG TOUR" />
+<fct name="default function" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="VERY LONG TOUR">
+</qsym>
+<qsym name="SHORT TOUR">
+</qsym>
+<qsym name="LONG TOUR">
+</qsym>
+</fct>
+    </desc>
+    <desc name="Budget" type="Symbol" mult="false" >
+      <symbol value="HIGH" />
+      <symbol value="MEDIUM" />
+      <symbol value="LOW" />
+<fct name="default function" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="HIGH">
+</qsym>
+<qsym name="MEDIUM">
+</qsym>
+<qsym name="LOW">
+</qsym>
+</fct>
+    </desc>
+    <desc name="Name" type="String" mult="false" >
+      <fct name="default function" type="String" symm="true" config="EQUALITY" n="3" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <desc name="Places" type="Integer" min="0" max="100" mult="false" >
+      <fct name="default function" type="Integer" ltype="CONSTANT" lparam="1.0" rtype="CONSTANT" rparam="1.0" mode="DIFFERENCE" symm="true" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <desc name="Duration" type="Integer" min="0" max="100" mult="false" >
+      <fct name="default function" type="Integer" ltype="CONSTANT" lparam="1.0" rtype="CONSTANT" rparam="1.0" mode="DIFFERENCE" symm="true" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <desc name="Id" type="Integer" min="0" max="100000" mult="false" >
+      <fct name="default function" type="Integer" ltype="CONSTANT" lparam="1.0" rtype="CONSTANT" rparam="1.0" mode="DIFFERENCE" symm="true" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <desc name="ListPlaces" type="String" mult="false" >
+      <fct name="default function" type="String" symm="true" config="EQUALITY" n="3" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <desc name="Reference" type="String" mult="false" >
+      <fct name="default function" type="String" symm="true" config="EQUALITY" n="3" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <amalgam name="default function" type="EUCLIDEAN" active="true" >
+      <entry name="Name" active="true" fct="default function" weight="1"/>
+      <entry name="Description" active="true" fct="default function" weight="1"/>
+      <entry name="Places" active="true" fct="default function" weight="1"/>
+      <entry name="Type" active="true" fct="default function" weight="1"/>
+      <entry name="Duration" active="true" fct="default function" weight="1"/>
+      <entry name="Reference" active="true" fct="default function" weight="1"/>
+      <entry name="ListPlaces" active="true" fct="default function" weight="1"/>
+      <entry name="Id" active="true" fct="default function" weight="1"/>
+      <entry name="Budget" active="true" fct="default function" weight="1"/>
+    </amalgam>
+  </concept>
+</model>
+<hierarchy>
+  <fct name="default function" type="Taxonomy" mt="PARTNER_QUERY" r="REUSE" t="MAX" qconfig="INNER_NODES_ANY" cconfig="INNER_NODES_ANY" top="inheritanceDesc" sim="0.0" symm="true" >
+    <node name="Itenery" sim="1.0" parent="inheritanceDesc" />
+  </fct>
+</hierarchy>
+<cases no="72" cb="CB"/>
+</Project>
