@@ -45,8 +45,8 @@ public class Reco {
 		myConcept = rec.getConceptByID(engine.getConceptName());	
 	}
 
-	public String solveOuery(String budget,String type,  Integer duration, Integer numberofplaces) {
-		int numberofcases = 5;
+	public String solveOuery(String budget,String type,  Integer duration, Integer numberofplaces, Integer ncases) {
+		int numberofcases = (int) ncases;
 		
 		String answer="";		
 		// create a new retrieval
@@ -90,8 +90,10 @@ public class Reco {
 			String casename = result.get(0).getFirst().getName();	
 			// get the similarity value
 			Double sim = result.get(0).getSecond().getValue();		
-			answer = "I found "+casename+" with a similarity of "+sim+" as the best match.";
+			answer = "Found "+casename+" with a similarity of "+ sim +" as the best match.";
+			
 			answer = answer+"The "+numberofcases+" best cases shown in a table: <br /> <br /> <table border=\"1\">";	
+			
 			ArrayList<Hashtable<String, String>> liste = new ArrayList<Hashtable<String, String>>();	
 			// if more case results are requested than we have in our case base at all:
 			if(numberofcases>=cb.getCases().size()){numberofcases = cb.getCases().size();}
@@ -100,7 +102,16 @@ public class Reco {
 
 				liste.add(getAttributes(result.get(i), rec.getConceptByID(engine.getConceptName())));
 				System.out.println("liste "+liste.get(i).toString());
-				answer=answer+"<tr><td>"+result.get(i).getFirst().getName()+"</td><td>"+liste.get(i).toString()+"</td></tr>";
+				
+				StringBuilder sb = new StringBuilder();
+				String details = liste.get(i).toString().replace('{', ' ').replace('}', ' ');
+				for (String s : details.split(",")){
+					
+					String key = s.trim().split("=")[0];
+					String value = s.trim().split("=")[1];
+					sb.append("<b>" + key + "</b>" + " : "  + "<i>" + value + "</i>" + "<br />");
+				}
+				answer=answer+"<tr><td>"+result.get(i).getFirst().getName()+"</td><td>"+sb.toString()+"</td></tr>";
 			}
 
 			answer= answer+"</table>";		
@@ -150,9 +161,15 @@ public class Reco {
 		return cats;
 	}
 
+	public String displayWelcomeMessage(){
+		String msg = "";
+		msg="<h3>Welcome to SG Trip Advisor<h3>";
+		return msg;
+	}
+	
 	public String displayAmalgamationFunctions() {
 
-		ArrayList <String> amalgam = new ArrayList<String>(); 
+		 
 		String listoffunctions="Currently available Amalgamationfunctions: <br /> <br />";		 
 		AmalgamationFct current = myConcept.getActiveAmalgamFct();		 
 		System.out.println("Amalgamation Function is used = "+current.getName());		 
