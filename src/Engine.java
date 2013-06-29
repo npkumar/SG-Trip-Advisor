@@ -1,4 +1,5 @@
 
+
 import de.dfki.mycbr.core.Project;
 import de.dfki.mycbr.core.model.Concept;
 import de.dfki.mycbr.io.CSVImporter;
@@ -10,11 +11,13 @@ import de.dfki.mycbr.io.CSVImporter;
 public class Engine {
 
 	// set path to myCBR projects	
-	//private static String data_path = "C:\\Users\\bach\\IIS\\dev\\workspace\\myCBRWebDemo\\project\\";
-	private static String data_path = "C:\\Users\\nitinpkumar\\workspace\\Places\\data\\";
+	
+	private static String currentDir = System.getProperty("user.dir");
+	private static String data_path = currentDir + "\\data\\";	
+	
 	/* project specific: NewExampleProject*/
 	// name of the project file
-	private static String projectName = "monkey.prj";
+	private static String projectName = "TRIP_RECO.prj";
 	// name of the central concept 
 	private static String conceptName = "Itenery";
 	// name of the csv containing the instances
@@ -23,7 +26,7 @@ public class Engine {
 	private static String columnseparator = ",";
 	private static String multiplevalueseparator = ",";
 	// name of the case base that should be used; the default name in myCBR is CB_csvImport
-	private static String casebase = "CB";
+	private static String casebase = "CB_csvImport"; //CB
 	// Getter for the Project meta data
 	public static String getCaseBase() {
 		return casebase;
@@ -62,6 +65,10 @@ public class Engine {
 	 */	
 	public Project createProjectFromPRJ(){
 
+		
+        
+        
+        
 		System.out.println("Trying to load prj file with : "+data_path+ " "+projectName+" "+conceptName+" "); 
 
 		Project project = null;

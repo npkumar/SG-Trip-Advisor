@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Project name="TRIP_RECO" author="" >
+<exp obj="Itenery" type="Concept" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="TYPE" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="REFERENCE" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="ID" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="BUDGET" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="DESCRIPTION" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="NAME" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="LISTPLACES" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="DURATION" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="PLACES" c="Itenery" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+</Project>

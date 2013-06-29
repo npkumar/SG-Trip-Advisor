@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Project name="TRIP_RECO" author="" >
+<instances name="Itenery">
+  <instance id="Itenery11" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.celestiallinkholidays.com/singapore.html" />
+    <att name="ID" value="12" />
+    <att name="DESCRIPTION" value="Day1:Asian civilization museum-Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea Day2:Shopping little india-Shopping Orchard-Duck Tour-Singapore Zoo-Singapore Botanic Gardens" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Singapore 2days 1Night Land Package A" />
+    <att name="LISTPLACES" value="Merlion Park - Raffles Landing Sites - ChinaTown Heritage Centre - Chinatown Night Market - underwater world - Butterfly_Insect_Kingdom - Tiger Sky Tower - Sentosa 4D Magix - Bumboat River - Clarke Quay - Trishaw - " />
+    <att name="DURATION" value="2" />
+    <att name="PLACES" value="11" />
+  </instance>
+  <instance id="Itenery12" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.celestiallinkholidays.com/singapore.html" />
+    <att name="ID" value="13" />
+    <att name="DESCRIPTION" value="Day1:Shopping little india-Shopping Orchard-Duck Tour-Singapore Zoo-Singapore Botanic Gardens Day2:Dolphin lagoon- underwater world-Night safari-Handicraft center-Cable car-Merlion park" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Singapore 2days 1Night Land Package B" />
+    <att name="LISTPLACES" value="Fountain of Wealth - Merlion Park - Little India arcade - Night Safari - Images of Singapore - Underwater World - Butterfly_insect_kingdom - Siloso Beach - Tiger Sky Tower - Causeway Bridge - songs of the sea - " />
+    <att name="DURATION" value="2" />
+    <att name="PLACES" value="11" />
+  </instance>
+  <instance id="Itenery13" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.celestiallinkholidays.com/singapore.html" />
+    <att name="ID" value="14" />
+    <att name="DESCRIPTION" value="Day1:ChinaTown Heritage Centre-Chinatown Night Market-Trishaw-Clarke Quay-Bumboat River-shopping little india Day2:Handicraft center-Cable car-Merlion park-Sentosa Day3:Suntec city mall-Sunset at Sentosa-ChinaTown Heritage Centre-Chinatown Night Market-Trishaw" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore 3days 2Night Land Package A" />
+    <att name="LISTPLACES" value="Merlion Park - Fountain of Wealth - esplanade - clarke quay - Singapore Botanic Gardens - Images of Singapore - Underwater World - Butterfly_insect_kingdom - Siloso Beach - songs of the sea - Causeway Bridge - Tiger Sky Tower - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - shopping little india - " />
+    <att name="DURATION" value="3" />
+    <att name="PLACES" value="18" />
+  </instance>
+  <instance id="Itenery14" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.celestiallinkholidays.com/singapore.html" />
+    <att name="ID" value="15" />
+    <att name="DESCRIPTION" value="Day1:Dolphin lagoon- underwater world-Night safari-Handicraft center-Cable car-Merlion park Day2:Asian civilization museum-Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea Day3:Shopping little india-Shopping Orchard-Duck Tour-Singapore Zoo-Singapore Botanic Gardens" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore 3days 2Night Land Package B" />
+    <att name="LISTPLACES" value="Merlion Park - Fountain of Wealth - Night Safari - BumBoat River - Images of Singapore - Underwater World - Butterfly_insect_kingdom - Siloso Beach - songs of the sea - Causeway Bridge - Tiger Sky Tower - shopping little india - " />
+    <att name="DURATION" value="3" />
+    <att name="PLACES" value="12" />
+  </instance>
+  <instance id="Itenery15" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.celestiallinkholidays.com/singapore.html" />
+    <att name="ID" value="16" />
+    <att name="DESCRIPTION" value="Day1:Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea Day2:Handicraft center-Cable car-Merlion park-Sentosa Day3:Peranakan museum-Causeway bridge-Dolphin lagoon- underwater world-Night safari Day4:Shopping Orchard-Duck Tour-Singapore Zoo-Singapore Botanic Gardens" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore 4Days 3Nights Land Package" />
+    <att name="LISTPLACES" value="Merlion Park - Fountain of Wealth - Night Safari - underwater world - Butterfly_Insect_Kingdom - Tiger Sky Tower - Images of Singapore - Underwater World - Butterfly_insect_kingdom - Siloso Beach - songs of the sea - Causeway Bridge - shopping little india - " />
+    <att name="DURATION" value="4" />
+    <att name="PLACES" value="13" />
+  </instance>
+  <instance id="Itenery16" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.celestiallinkholidays.com/singapore.html" />
+    <att name="ID" value="17" />
+    <att name="DESCRIPTION" value="Day1Shopping Orchard-Duck Tour-Singapore Zoo-Singapore Botanic Gardens Day2:Asian civilization museum-Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea Day3:Night safari-Handicraft center-Cable car-Merlion park-Sentosa Day4:Katong antique house-Joo chiat-Peranakan museum-Causeway bridge-Dolphin lagoon- underwater world Day5:Parliament House-supreme court and city hall-Thian Hock Keng Temple-Jurong Bird Park-esplanade-Fish Reflexology-Lau Pa Sat" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore 5Days 4Nights Land Package" />
+    <att name="LISTPLACES" value="Night Safari - Mount Faber - underwater world - Butterfly_insect_kingdom - Tiger Sky Tower - Images of Singapore - Siloso Beach - songs of the sea - Causeway Bridge - shopping little india - Jurong Bird Park - BumBoat River - Singapore Botanic Gardens - " />
+    <att name="DURATION" value="5" />
+    <att name="PLACES" value="13" />
+  </instance>
+  <instance id="Itenery17" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.celestiallinkholidays.com/School.html" />
+    <att name="ID" value="18" />
+    <att name="DESCRIPTION" value="Day1:Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea Day2:Trishaw-Gem stone factory-Art Retreat museum-Asian civilization museum Day3:changi chapel and museum-Suntec city mall-Sunset at Sentosa-ChinaTown Heritage Centre-Chinatown Night Market Day4:Night safari-Handicraft center-Cable car-Merlion park-Sentosa" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="4 Days 3 Nights Exchange and Tour Program(Singapore School Tour program)" />
+    <att name="LISTPLACES" value="School Tour - Singapore Discovery Centre - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - Singapore Science Centre - Little India arcade - Night Safari - " />
+    <att name="DURATION" value="4" />
+    <att name="PLACES" value="10" />
+  </instance>
+  <instance id="Itenery18" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.celestiallinkholidays.com/School.html" />
+    <att name="ID" value="19" />
+    <att name="DESCRIPTION" value="Day1:Bumboat River-Singapore Discovery Centre-Little India arcade-Night Safari-gem stone factory Day2:art retreat museum-asian civilisation museum-changi chapel and museum Day3:Sentosa 4D magix-Mount Faberimages of singapore-Songs of the Sea Day4:Shopping Orchard-Duck Tour-Singapore Zoo-Singapore Botanic Gardens Day5:geylang serai-Sultan Mosque-Arab Street-Parliament House-supreme court and city hall" />
+    <att name="BUDGET" value="HIGH" />
+    <att name="NAME" value="5 Days 4 Nights Exchange and Tour Program(Singapore School Tour Program)" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - School Tour - Singapore Science Centre - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - Singapore Discovery Centre - Little India arcade - Night Safari - gem stone factory - art retreat museum - asian civilisation museum - changi chapel and museum - images of singapore - Songs of the Sea - " />
+    <att name="DURATION" value="5" />
+    <att name="PLACES" value="22" />
+  </instance>
+  <instance id="Itenery10" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.celestiallinkholidays.com/singapore.html" />
+    <att name="ID" value="11" />
+    <att name="DESCRIPTION" value="Day1:Asian civilization museum-Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea-Singapore flyer" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Singapore Flyer and Farm Visit One Day Tour" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - Singapore Flyer - Aero-green Technology - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="8" />
+  </instance>
+  <instance id="Itenery63" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="64" />
+    <att name="DESCRIPTION" value="Museum" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Peranakan's experience" />
+    <att name="LISTPLACES" value="Katong antique house - Katong-Joo chiat - Peranakan museum - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="3" />
+  </instance>
+  <instance id="Itenery62" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="63" />
+    <att name="DESCRIPTION" value="Bus Ride Across City" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Panoramic City Tour" />
+    <att name="LISTPLACES" value="City Hall - Parliament House - Stamford Hotel - Mount Faber - Cable Car - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="5" />
+  </instance>
+  <instance id="Itenery65" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="66" />
+    <att name="DESCRIPTION" value="Eastern Heartland" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Eastern Heartland tour" />
+    <att name="LISTPLACES" value="Kampong Glam - Malay village - Sultan Mosque - Arab Street - Parliament House - Supreme Court - City Hall - Thian Hock Keng Temple - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="8" />
+  </instance>
+  <instance id="Itenery64" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="65" />
+    <att name="DESCRIPTION" value="ChinaTown" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Chinatown Tour" />
+    <att name="LISTPLACES" value="ChinaTown Heritage Centre - Night Market - Trishaw - Clarke Quay - Scenic Boat trip - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="5" />
+  </instance>
+  <instance id="Itenery61" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="62" />
+    <att name="DESCRIPTION" value="Zouk" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="City Night Life (City)" />
+    <att name="LISTPLACES" value="Zouk - Crazy Elephant - Velvet Underground - China Jump Bar and Grill - Molly Malone?s - NYDC - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="6" />
+  </instance>
+  <instance id="Itenery60" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="61" />
+    <att name="DESCRIPTION" value="Sentosa" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Sentosa Beaches" />
+    <att name="LISTPLACES" value="Palawan Beach - siloso beach - Tanjong Beach - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="3" />
+  </instance>
+  <instance id="Itenery6" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.joy-travels.com/outbound.asp?p=Singapore%20with%20star%20cruise" />
+    <att name="ID" value="7" />
+    <att name="DESCRIPTION" value="Day1:Jurong Bird Park-Bumboat River-Shopping little india Day2:Shopping Orchard-Duck Tour-Singapore Zoo Day3:Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea Day4:Handicraft center-Cable car-Merlion park-Sentosa Day5:Joo chiat-Peranakan museum-Causeway bridge-Dolphin lagoon- underwater world-Night safari Day6:Kranji War memorial-Kong Meng San Phor Kark See Temple-Orchid Garden-Johore Battery-changi chapel and museum-Suntec city mall" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore With Star Cruise" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - Night Safari - Sunset at Sentosa - Singapore Zoo - star cruise - Shopping Orchard - National Orchid Garden - Jurong Bird Park - " />
+    <att name="DURATION" value="6" />
+    <att name="PLACES" value="13" />
+  </instance>
+  <instance id="Itenery7" >
+    <att name="TYPE" value="VERYLONG TOUR" />
+    <att name="REFERENCE" value="http://www.tourvacationstogo.com/singapore_tours.cfm?npid=11242andnhr=1" />
+    <att name="ID" value="8" />
+    <att name="DESCRIPTION" value="Day1:Clarke Quay-Bumboat River-National Orchid Garden-Little India arcade Day2:Haw Par Villa-Kranji War Memorial-Kong Meng San Phor Kark See Temple-Haw Par Villa Day3:Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea Day4:Trishaw-Gem stone factory-Art Retreat museum-Asian civilization museum Day5:Johore Battery-changi chapel and museum-Suntec city mall-Sunset at Sentosa-ChinaTown Heritage Centre-Chinatown Night Market Day6:Clarke Quay-Little india arcade-Haw Par Villa-Kranji War memorial-Kong Meng San Day7:Dolphin lagoon- underwater world-Night safari-Handicraft center-Cable car-Merlion park-Sentosa Day8:Bumboat River-Shopping little india-Shopping Orchard-Duck Tour-Singapore Zoo-Singapore Botanic Gardens " />
+    <att name="BUDGET" value="HIGH" />
+    <att name="NAME" value="8 Days Singapore to Vacation" />
+    <att name="LISTPLACES" value="Night Safari - World's largest Fountain - Shopping in Bugis - Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - National Orchid Garden - Little India arcade - Haw Par Villa - Kranji War Memorial - Kong Meng San Phor Kark See Temple - " />
+    <att name="DURATION" value="8" />
+    <att name="PLACES" value="19" />
+  </instance>
+  <instance id="Itenery4" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.joy-travels.com/outbound.asp?p=Pure%20Singapore" />
+    <att name="ID" value="5" />
+    <att name="DESCRIPTION" value="Day1:Handicraft centre-cable car-sentosa-Underwater World-Merlion-Causeway Bridge-Night Safari Day2:Art Retreat museum-Asian civilization museum-Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea Day3:Handicraft center-Cable car-Merlion park-Sentosa-Clarke Quay." />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Pure Singapore 2" />
+    <att name="LISTPLACES" value="Merlion Park - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - Mount Faber - Gem Stone Factory - Cricket club - Parliament House - Supreme court and city Hall - Thian Hock Keng Temple - Handicraft centre - cable car-sentosa - Underwater World - Merlion - Causeway Bridge - Night Safari - " />
+    <att name="DURATION" value="3" />
+    <att name="PLACES" value="18" />
+  </instance>
+  <instance id="Itenery5" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.joy-travels.com/outbound.asp?p=Pure%20Singapore" />
+    <att name="ID" value="6" />
+    <att name="DESCRIPTION" value="Day1:Handicraft centre-Jurong Bird park-Singapore Zoo Day2:Thian Hock Keng Temple-Jurong Bird Park-esplanade-Fish Reflexology-Lau Pa Sat Day3:Bumboat River-Shopping little india-Shopping Orchard-Duck Tour-Singapore Zoo" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Pure Singapore 3" />
+    <att name="LISTPLACES" value="Merlion Park - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - Mount Faber - Gem Stone Factory - Cricket club - Parliament House - Supreme court and city Hall - Thian Hock Keng Temple - Handicraft centre - Jurong Bird park - Singapore Zoo - " />
+    <att name="DURATION" value="3" />
+    <att name="PLACES" value="15" />
+  </instance>
+  <instance id="Itenery2" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.joy-travels.com/outbound.asp?p=4%20Days/3%20Nights%20Honeymoon%20in%20Singapore" />
+    <att name="ID" value="3" />
+    <att name="DESCRIPTION" value="Day1:Causeway Bridge-Night Safari-Singapore Zoo-Singapore Botanic Gardens-ZoukKampong Glam Walk Day2:geylang serai-Sultan Mosque-Arab Street-Parliament House supreme court and city hall Day3:Thian Hock Keng Temple-Handicraft center-Cable car-Merlion park-Sentosa Day4:Joo chiat-Peranakan museum-Causeway bridge-Dolphin lagoon- underwater world-Night safari" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Honeymoon in Singapore" />
+    <att name="LISTPLACES" value="Merlion Park - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - Mount Faber - Gem Stone Factory - The DHL Balloon - cable car-sentosa - Underwater World - Merlion - Causeway Bridge - Night Safari - " />
+    <att name="DURATION" value="4" />
+    <att name="PLACES" value="14" />
+  </instance>
+  <instance id="Itenery67" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="68" />
+    <att name="DESCRIPTION" value="Sentosa" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Sunset at Sentosa" />
+    <att name="LISTPLACES" value="Image of Singapore - Underwater World - Butterfly Park - Siloso Beach - Musical Fountain - Causeway Bridge - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="6" />
+  </instance>
+  <instance id="Itenery3" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.joy-travels.com/outbound.asp?p=Pure%20Singapore" />
+    <att name="ID" value="4" />
+    <att name="DESCRIPTION" value="Day1:Handicraft centre-Jurong Bird park-cable car-sentosa-Underwater World-Merlion-Causeway Bridge Day2:Joo chiat-Peranakan museum-Causeway bridge-Dolphin lagoon-underwater world-Night safari Day3: Art Retreat museum-Asian civilization museum-Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Pure Singapore 1" />
+    <att name="LISTPLACES" value="Merlion Park - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - Mount Faber - Gem Stone Factory - Cricket club - Parliament House - Supreme court and city Hall - Thian Hock Keng Temple - Handicraft centre - Jurong Bird park - cable car-sentosa - Underwater World - Merlion - Causeway Bridge - " />
+    <att name="DURATION" value="3" />
+    <att name="PLACES" value="18" />
+  </instance>
+  <instance id="Itenery66" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="67" />
+    <att name="DESCRIPTION" value="Colonial tour" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="colonial City tour" />
+    <att name="LISTPLACES" value="Merlion Park - Esplanade - Raffles landing sites - Capitol - the High Court - City Hall - the Victoria Theater - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="7" />
+  </instance>
+  <instance id="Itenery69" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="70" />
+    <att name="DESCRIPTION" value="Orchard" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Shopping Orchard" />
+    <att name="LISTPLACES" value="The Centrepoint - Delfi Orchard - Far East Plaza - Lucky Plaza - Orchard Plaza - Paragon Shopping Centre - Ngee Ann City - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="7" />
+  </instance>
+  <instance id="Itenery0" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="Singapore Travel Agent Book" />
+    <att name="ID" value="1" />
+    <att name="DESCRIPTION" value="Day1:Clarke Quay-Bumboat River-shopping little india-Shopping Orchard Day2:Singapore Zoo-Singapore Botanic Gardens-Zouk-Clarke Quay Day3:geylang serai-Sultan Mosque-Parliament House-supreme court and city hall Day4:Thian Hock Keng Temple-Bumboat river-Jurong Bird Park-esplanadeDay5:Lau Pa Sat-Katong antique house-Katong Day6:Joo chiat-Peranakan museum-Fish Reflexology day7:Duck Tour-A Kampong Glam Walk-Arab Street" />
+    <att name="BUDGET" value="HIGH" />
+    <att name="NAME" value="STB Special Tours" />
+    <att name="LISTPLACES" value="underwater world - Dolphin Lagoon - Butterfly_insect_kingdom - Tiger Sky Tower - cable car-sentosa - CHIJMES - Feng Shui tour - Night Safari - World's largest Fountain - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - shopping little india - Shopping Orchard - Duck Tour - Singapore Zoo - Singapore Botanic Gardens - Zouk - Clarke Quay - A Kampong Glam Walk - geylang serai - Sultan Mosque - Arab Street - Parliament House - supreme court and city hall - Thian Hock Keng Temple - Bumboat river - Jurong Bird Park - esplanade - Fish Reflexology - Lau Pa Sat - Katong antique house - Katong-Joo chiat - Peranakan museum - " />
+    <att name="DURATION" value="7" />
+    <att name="PLACES" value="36" />
+  </instance>
+  <instance id="Itenery68" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="69" />
+    <att name="DESCRIPTION" value="Bugis" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Shopping in Bugis" />
+    <att name="LISTPLACES" value="Bugis Village - Parco Bugis Junction - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="2" />
+  </instance>
+  <instance id="Itenery1" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="Singapore Travel Agent Book" />
+    <att name="ID" value="2" />
+    <att name="DESCRIPTION" value="Day1:Lau Pa Sat-Katong antique house-Joo chiat-Peranakan museum Day2:Kampong Glam Walk-geylang serai-Sultan Mosque-Arab Street Day3:Parliament House-supreme court and city hall-Thian Hock Keng Temple-Jurong Bird Park Day4:esplanade-Fish Reflexology-Chinatown Night Market-Trishaw-Gem stone factory-Art Retreat museum Day5:Bumboat River-Shopping little india-Shopping Orchard-Duck Tour" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Culinary Heritage Tour" />
+    <att name="LISTPLACES" value="foodwalk-spicy-food - Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - Shopping Little India - geylang serai - " />
+    <att name="DURATION" value="5" />
+    <att name="PLACES" value="14" />
+  </instance>
+  <instance id="Itenery24" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.greatindiaholidays.theindiancenter.com/dream-vacation-tour.html" />
+    <att name="ID" value="25" />
+    <att name="DESCRIPTION" value="Day1:Mount Faber-Cable Car Day2:Underwater World Day3:Sentosa-Images of Singapore Day4:Songs of the Sea-Sentosa 4D Magix" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Dream Singapore" />
+    <att name="LISTPLACES" value="Zouk - Crazy Elephant - Velvet Underground - China Jump Bar and Grill - Molly Malone&#8217;s - n.y.d.c. - Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - Mount Faber - Underwater World - Cable Car-Sentosa - Images of Singapore - Songs of the Sea - Sentosa 4D Magix - " />
+    <att name="DURATION" value="4" />
+    <att name="PLACES" value="18" />
+  </instance>
+  <instance id="Itenery25" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.swiftravel.com/S_package_details_intl.asp?pid=22andgid=10" />
+    <att name="ID" value="26" />
+    <att name="DESCRIPTION" value="Day1: Bumboat River- Trishaw- Singapore botanic gardensDay2: Sultan Mosque- Arab Street- Esplande" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Travel From India / Singapore Package / Singapore" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - NEWater visitor centre - Bumboat river - " />
+    <att name="DURATION" value="2" />
+    <att name="PLACES" value="8" />
+  </instance>
+  <instance id="Itenery22" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.bookmytrip.in/packages/india-singapore.htm" />
+    <att name="ID" value="23" />
+    <att name="DESCRIPTION" value="Day1:Causeway Bridge-Jurong Bird Park-Night Safari-ChinaTown Heritage Centre Day2:Chinatown Night Market-Trishaw-Clarke Quay-Bumboat River Day3:Gem stone factory-Art Retreat museum-Asian civilization museum-Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea Day4:Night safari-Handicraft center-Cable car-Merlion park-Sentosa Day5:Sultan Mosque-Arab Street-Parliament House-supreme court and city hall-Thian Hock Keng Temple-Jurong Bird Park" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore Tour" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - shopping little india - Images of Singapore - Underwater World - Butterfly_insect_kingdom - Siloso Beach - songs of the sea - Causeway Bridge - Jurong Bird Park - Night Safari - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - " />
+    <att name="DURATION" value="5" />
+    <att name="PLACES" value="20" />
+  </instance>
+  <instance id="Itenery23" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.cheapairticketsindia.com/holidays-abroad/singapore-tours-travel.html" />
+    <att name="ID" value="24" />
+    <att name="DESCRIPTION" value="Day1:Causeway Bridge-Shopping Orchard-shopping little indiaDay2:Jurong Bird Park Day3:Singapore Zoo Day4: Underwater world" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore Holiday Package" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - Mount Faber - Stamford Hotel - Shopping in Bugis - cable car-sentosa - Underwater World - Merlion - Causeway Bridge - Jurong Bird Park - Shopping Orchard - shopping little india - " />
+    <att name="DURATION" value="4" />
+    <att name="PLACES" value="16" />
+  </instance>
+  <instance id="Itenery28" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.pearlsindiatour.com/singapore-tour-package.html" />
+    <att name="ID" value="29" />
+    <att name="DESCRIPTION" value="Day1: Orchid Garden- Johore Battery- Changi chapel and museum- Suntec city mallDay2: Trishaw- Little india arcade- Kong Meng San Phor Kark See Temple- Handicraft centerDay3: Cable car- Sentosa- Images of singapore- songs of the seaDay4: Sentosa 4D magix- Esplande- Sunset at sentosa- Zouk" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore Tour Package|Tour Package for Singapore Asia  03 Nights / 04 Days" />
+    <att name="LISTPLACES" value="Sri Mariamman Temple - Singapore Botanic Gardens - Images of Singapore - Underwater World - Butterfly_insect_kingdom - Siloso Beach - songs of the sea - Causeway Bridge - Jurong Bird Park - Night Safari - " />
+    <att name="DURATION" value="4" />
+    <att name="PLACES" value="10" />
+  </instance>
+  <instance id="Itenery29" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.viator.com/tours/Singapore/Singapore-Haw-Par-Villa-and-Round-Island-Day-Trip-including-Lunch/d18-3695RITC" />
+    <att name="ID" value="30" />
+    <att name="DESCRIPTION" value="Day1: Haw par villa- Little india arcade- Chinatown heriatage" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Singapore Haw Par Villa and Round-Island Day Trip including Lunch" />
+    <att name="LISTPLACES" value="Haw Par Villa - Kranji Dam - Kranji War Memorial - kong meng san phor kark see temple - changi chapel and museum - Johore Battery - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="6" />
+  </instance>
+  <instance id="Itenery26" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.primetravels.com/PackageDetail.aspx?PId=454" />
+    <att name="ID" value="27" />
+    <att name="DESCRIPTION" value="Day1: Mount Faber- Suntec city mall- China town heritage center- China town night marketDay2: Singapore Zoo- Night SafariDay3: Jurong bird park- ZoukDay 4: Merlion park- Lau pa Sat- Parliament house" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="UNIQUELY SINGAPORE 3 Nights - 4 Days 3 Nights" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - National Orchid Garden - Shopping Orchard - Tigerlive - " />
+    <att name="DURATION" value="4" />
+    <att name="PLACES" value="9" />
+  </instance>
+  <instance id="Itenery27" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.indiaetrade.com/travelling2india/singapore-travel-package.htm" />
+    <att name="ID" value="28" />
+    <att name="DESCRIPTION" value="Day1:Parliament house- Arab street- Sultan Mosque- Supreme court and city hallDay2: Thian Hock Keng Temple- Lau pa Sat- Katong Antique houseDay3: Merlion park- Clarke Quay- Handicraft center- Kranji war memorial" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Singapore Travel Package(3 Days/2 Nights)" />
+    <att name="LISTPLACES" value="supreme court and city hall - parliament house - Stamford Hotel - Mount Faber - cable car-sentosa - Shopping little india - Shopping Orchard - Shopping - City Hall - " />
+    <att name="DURATION" value="3" />
+    <att name="PLACES" value="8" />
+  </instance>
+  <instance id="Itenery20" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.ercotravels.com/it20.htm" />
+    <att name="ID" value="21" />
+    <att name="DESCRIPTION" value="Day1:Asian civilization museum-Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea Day2:Sunset at Sentosa-ChinaTown Heritage Centre-Chinatown Night Market-Trishaw-Gem stone factory-Art Retreat museum Day3:Orchid Garden-Johore Battery-changi chapel and museum-Suntec city mall Day4:Clarke Quay-Little india arcade-Haw Par Villa-Kranji War memorial-Kong Meng San Phor Kark See Temple Day5:Dolphin lagoon- underwater world-Night safari-Handicraft center-Cable car-Merlion park-Sentosa Day6:Jurong Bird Park-esplanade-Fish Reflexology-Lau Pa Sat-Katong antique house-Joo chiat" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore (Star Cruises) ER235" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - Singapore Discovery Centre - Jurong Bird Park - Sentosa - Star Cruise - " />
+    <att name="DURATION" value="6" />
+    <att name="PLACES" value="10" />
+  </instance>
+  <instance id="Itenery21" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.ercotravels.com/it20.htm" />
+    <att name="ID" value="22" />
+    <att name="DESCRIPTION" value="Day1:Causeway Bridge-Sultan Mosque-Arab Street-Parliament House-supreme court and city hall-Thian Hock Keng Temple Day2:Asian civilization museum-Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea Day3:Night safari-Handicraft center-Cable car-Merlion park-Sentosa Day4:Bumboat River-Shopping little india-Shopping Orchard-Duck Tour" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore/Malaysia ER236(06 Nights/07 Days)" />
+    <att name="LISTPLACES" value="Night life (Orchard Road) - Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - Images of Singapore - Underwater World - Butterfly_insect_kingdom - Siloso Beach - songs of the sea - Causeway Bridge - " />
+    <att name="DURATION" value="4" />
+    <att name="PLACES" value="13" />
+  </instance>
+  <instance id="Itenery54" >
+    <att name="ID" value="55" />
+    <att name="NAME" value="Shopping in Bugis" />
+  </instance>
+  <instance id="Itenery53" >
+    <att name="ID" value="54" />
+    <att name="NAME" value="Sunset at Sentosa" />
+  </instance>
+  <instance id="Itenery52" >
+    <att name="ID" value="53" />
+    <att name="NAME" value="Eastern Heartland tour" />
+  </instance>
+  <instance id="Itenery51" >
+    <att name="ID" value="52" />
+    <att name="NAME" value="Chinatown Tour" />
+  </instance>
+  <instance id="Itenery50" >
+    <att name="ID" value="51" />
+    <att name="NAME" value="Peranakan's experience" />
+  </instance>
+  <instance id="Itenery59" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="60" />
+    <att name="DESCRIPTION" value="City tour" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="City Tour" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supree court and city Hall - Merlion park - Marina Bay - Thian Hock Keng Temple - Handricraft center - Nationa - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="8" />
+  </instance>
+  <instance id="Itenery19" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.ercotravels.com/it20.htm" />
+    <att name="ID" value="20" />
+    <att name="DESCRIPTION" value="Day1:geylang serai-Sultan Mosque-Arab Street-Parliament House-supreme court and city hall Day2:Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea Day3:Night safari-Handicraft center-Cable car-Merlion park-Sentosa Day4:Katong antique house-Joo chiat-Peranakan museum-Causeway bridge-Dolphin lagoon- underwater world Day5:Shopping little india-Shopping Orchard-Duck Tour-Singapore Zoo" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore ER233" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - Singapore Discovery Centre - Jurong Bird Park - Sentosa - Shopping in Bugis - " />
+    <att name="DURATION" value="5" />
+    <att name="PLACES" value="10" />
+  </instance>
+  <instance id="Itenery58" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="59" />
+    <att name="DESCRIPTION" value="Little India Arcade" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="foodwalk-spicy-food" />
+    <att name="LISTPLACES" value="Joo Chiat Comple - Joo Chiat Place - Haig Road Estate - Duman Road &#38; Koon Seng Road - East Coast Road - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="5" />
+  </instance>
+  <instance id="Itenery57" >
+    <att name="ID" value="58" />
+    <att name="NAME" value="Sentosa Tour" />
+  </instance>
+  <instance id="Itenery56" >
+    <att name="ID" value="57" />
+    <att name="NAME" value="Museums" />
+  </instance>
+  <instance id="Itenery55" >
+    <att name="ID" value="56" />
+    <att name="NAME" value="Shopping Orchard" />
+  </instance>
+  <instance id="Itenery41" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.jc-travel.com.sg/prod03.htm" />
+    <att name="ID" value="42" />
+    <att name="DESCRIPTION" value="Day1: asian civilisation museum-changi chapel and museum-chinatown heritage centre Day2: Singapore Zoo-Night SafariDay3: Images of Singapore-Underwater WorldDay4: Butterfly_insect_kingdom-Siloso Beach-songs of the sea Day5: Causeway Bridge- Jurong Bird Park- shopping Orchard-" />
+    <att name="BUDGET" value="HIGH" />
+    <att name="NAME" value="Singapore Tour Package" />
+    <att name="LISTPLACES" value="Singapore Education Service Centre - Merlion Park - Esplanade - Raffles landing sites - Capitol Building - supreme court and city hall - statues of sir stamford raffles - school tour - Little India arcade - geylang serai - gem stone factory - art retreat museum - asian civilisation museum - changi chapel and museum - chinatown heritage centre - images of singapore - Singapore Zoo - Night Safari - Images of Singapore - Underwater World - Butterfly_insect_kingdom - Siloso Beach - songs of the sea - Causeway Bridge - Jurong Bird Park - Singapore Science Centre - shopping Orchard - " />
+    <att name="DURATION" value="5" />
+    <att name="PLACES" value="27" />
+  </instance>
+  <instance id="Itenery40" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.jc-travel.com.sg/prod03.htm" />
+    <att name="ID" value="41" />
+    <att name="DESCRIPTION" value="Day1: songs of the sea-Causeway Bridge-Little India arcadeDay2: geylang serai-Singapore ZooDay3: Singapore Botanic Gardens-Shopping OrchardDay4: Sultan Mosque- Arab Street- EsplandeDay5: Singapore Flyer- Mount Faber- Peranakan museum" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore Tour Package" />
+    <att name="LISTPLACES" value="Singapore Education Service Centre - Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - school tour - Images of Singapore - Underwater World - Butterfly_insect_kingdom - Siloso Beach - songs of the sea - Causeway Bridge - Little India arcade - geylang serai - Singapore Zoo - Singapore Botanic Gardens - Shopping Orchard - " />
+    <att name="DURATION" value="5" />
+    <att name="PLACES" value="19" />
+  </instance>
+  <instance id="Itenery43" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.celestiallinkholidays.com/sentosa.html" />
+    <att name="ID" value="44" />
+    <att name="DESCRIPTION" value="Day1: Sentosa- Siloso beach- Sunset at Sentosa" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Sand and Sea" />
+    <att name="LISTPLACES" value="cable car-sentosa - Underwater World - Dolphin Lagoon - Merlion - Causeway Bridge - Palawan Beach - siloso beach - Tanjong Beach - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="8" />
+  </instance>
+  <instance id="Itenery42" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.new-star-tours.com/singapore/singapore.html" />
+    <att name="ID" value="43" />
+    <att name="DESCRIPTION" value="Day1: Underwater WorldDay2: Dolphin Lagoon Day3: Singapore Zoo Day4: Merlion-Causeway Bridge" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Singapore Tour Package" />
+    <att name="LISTPLACES" value="Night Safari - cable car-sentosa - Underwater World - Merlion - Causeway Bridge - Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - National Orchid Garden - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="12" />
+  </instance>
+  <instance id="Itenery45" >
+    <att name="ID" value="46" />
+    <att name="NAME" value="City Tour" />
+  </instance>
+  <instance id="Itenery44" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.tybrosindia.com/malaysia-singapore-tour.html" />
+    <att name="ID" value="45" />
+    <att name="DESCRIPTION" value="Day1: Mount Faber- Suntec city mall- China town heritage center- China town night marketDay2: Singapore Zoo- Night SafariDay3: Jurong bird park- ZoukDay 4: Merlion park- Lau pa Sat- Parliament house" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore Tour(3 Nights/4 Days)" />
+    <att name="LISTPLACES" value="Night Safari - supreme court and city hall - parliament house - Stamford Hotel - Mount Faber - cable car-sentosa - Jurong Bird Park - cable car-sentosa - underwater world - Dolphin Lagoon - Images Of Singapore - Songs Of The Sea - Shopping Orchard - " />
+    <att name="DURATION" value="4" />
+    <att name="PLACES" value="13" />
+  </instance>
+  <instance id="Itenery47" >
+    <att name="ID" value="48" />
+    <att name="NAME" value="colonial City tour" />
+  </instance>
+  <instance id="Itenery46" >
+    <att name="ID" value="47" />
+    <att name="NAME" value="Panoramic City Tour" />
+  </instance>
+  <instance id="Itenery49" >
+    <att name="ID" value="50" />
+    <att name="NAME" value="City Night Life (City)" />
+  </instance>
+  <instance id="Itenery48" >
+    <att name="ID" value="49" />
+    <att name="NAME" value="Sentosa Beaches" />
+  </instance>
+  <instance id="Itenery8" >
+    <att name="TYPE" value="VERYLONG TOUR" />
+    <att name="REFERENCE" value="http://www.tourvacationstogo.com/singapore_tours.cfm?npid=11242andnhr=1" />
+    <att name="ID" value="9" />
+    <att name="DESCRIPTION" value="Day1:Clarke Quay-Bumboat River-National Orchid Garden-Little India arcade Day2:Haw Par Villa-Kranji War Memorial-kong meng san phor kark see temple Day3:Johore Battery-changi chapel and museum Day4:Bumboat River-Shopping little india-Shopping Orchard-Duck Tour-Singapore Zoo-Singapore Botanic Gardens Day5:Night safari-Handicraft center-Cable car-Merlion park-Sentosa Day6:Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea Day7:ChinaTown Heritage Centre-Chinatown Night Market-Trishaw-Gem stone factory-Art Retreat museum Day8:Orchid Garden-Johore Battery-changi chapel and museum-Suntec city mall-Sunset at Sentosa" />
+    <att name="BUDGET" value="HIGH" />
+    <att name="NAME" value="8 daYS Thanks Giving in Singapore" />
+    <att name="LISTPLACES" value="Night Safari - World's largest Fountain - Shopping in Bugis - Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - National Orchid Garden - Little India arcade - Haw Par Villa - Kranji War Memorial - kong meng san phor kark see temple - Johore Battery - changi chapel and museum - " />
+    <att name="DURATION" value="8" />
+    <att name="PLACES" value="21" />
+  </instance>
+  <instance id="Itenery9" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.travelmasti.com/international/asia/singapore-holiday-packages.htm" />
+    <att name="ID" value="10" />
+    <att name="DESCRIPTION" value="Day1:Sunset at Sentosa-Jurong Bird Park-Suntec City Mall Day2:Handicraft center-Cable car-Merlion park-Sentosa-Clarke Quay-Little india arcade-Haw Par Villa Day3:Asian civilization museum-Images of singapore-Sentosa 4D magix-Mount Faber-Songs of the sea" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore Experience" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - A Kampong Glam Walk - geylang serai - Sultan Mosque - Arab Street - Bumboat river - Night Safari - Sunset at Sentosa - Jurong Bird Park - Suntec City Mall - " />
+    <att name="DURATION" value="3" />
+    <att name="PLACES" value="15" />
+  </instance>
+  <instance id="Itenery32" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.international-travel-tours.com/singapore-tour-packages/singapore-travel-package.html" />
+    <att name="ID" value="33" />
+    <att name="DESCRIPTION" value="Day1:Underwater World Day2: Butterfly_insect_kingdom-Siloso Beach Day3: Sentosa-  Images of SingaporeDay4: Sentosa 4D magix- Sunset at SentosaDay5: Songs of the sea-Causeway Bridge-haw par villa" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore Travel Package (5 Days Singapore Tour)" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - Little India arcade - Images of Singapore - Underwater World - Butterfly_insect_kingdom - Siloso Beach - songs of the sea - Causeway Bridge - haw par villa - " />
+    <att name="DURATION" value="5" />
+    <att name="PLACES" value="19" />
+  </instance>
+  <instance id="Itenery31" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.travelmasti.com/international/asia/singapore-tour-package.htm" />
+    <att name="ID" value="32" />
+    <att name="DESCRIPTION" value="Day1: Asian civilization museum- Clarke Quay- Joo chiatDay2: Parliament House- supreme court and city hall- Lau Pa SatDay3: Gem stone factory- Trishaw- Johore Battery- ZoukDay4: Underwater world" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Surprising Singapore 4 days" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - Mount Faber - Night Safari - Jurong Bird Park - underwater world - Songs of the sea - " />
+    <att name="DURATION" value="4" />
+    <att name="PLACES" value="11" />
+  </instance>
+  <instance id="Itenery30" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://slstourist.acgil.com/singapore-tour-package.html" />
+    <att name="ID" value="31" />
+    <att name="DESCRIPTION" value="Day1: Underwater WorldDay2: Dolphin Lagoon Day3: Singapore Zoo Day4: Merlion-Causeway Bridge" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore Honeymoon Tour Package 3 Nights / 4 Days" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - Singapore Botanic Gardens - National Orchid Garden - Singapore Zoo - Shopping Orchard - Night Safari - cable car-sentosa - Underwater World - Dolphin Lagoon - Merlion - Causeway Bridge - " />
+    <att name="DURATION" value="4" />
+    <att name="PLACES" value="16" />
+  </instance>
+  <instance id="Itenery36" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.international-travel-tours.com/singapore-tour-packages/singapore-adventure-tour.html" />
+    <att name="ID" value="37" />
+    <att name="DESCRIPTION" value="Day1:Singapore Zoo- Night safariDay2: Singapore Botanic Gardens- Fish ReflexologyDay3: Jurong Bird ParkDay4: Singapore Flyer- Butterfly insect kingdomDay5: Dolphin lagoon- Sunset at Sentosa" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore Adventure Tour" />
+    <att name="LISTPLACES" value="ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Chinatown - soup restraurant &#38; herb - Fort canning Park - Singapore Zoo - Little India arcade - " />
+    <att name="DURATION" value="5" />
+    <att name="PLACES" value="8" />
+  </instance>
+  <instance id="Itenery71" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="72" />
+    <att name="DESCRIPTION" value="Sentosa" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Sentosa Tour" />
+    <att name="LISTPLACES" value="Cable Car - Underwater Wrold - Merlion Tower - Causeway Bridge - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="4" />
+  </instance>
+  <instance id="Itenery35" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.international-travel-tours.com/singapore-tour-packages/singapore-holiday.html" />
+    <att name="ID" value="36" />
+    <att name="DESCRIPTION" value="Day1: asian civilisation museum- Katong antique house- Parliament HouseDay2: Jurong Bird ParkDay3: Singapore Zoo- Night safariDay4: changi chapel and museum- Suntec city mall- Shopping OrchardDay5: Thian Hock Keng Temple- Handicraft center- Fish Reflexology" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore Holiday (Singapore 7 Days)" />
+    <att name="LISTPLACES" value="Fort canning park - Singapore Botanic Gardens - Katong antique house - Katong-Joo chiat - Peranakan museum - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - Chinese opera shop - National Museum of Singapore - asian civilisation museum - Jurong Bird Park - Night Safari - " />
+    <att name="DURATION" value="5" />
+    <att name="PLACES" value="15" />
+  </instance>
+  <instance id="Itenery34" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.international-travel-tours.com/singapore-tour-packages/isle-holiday-singapore.html" />
+    <att name="ID" value="35" />
+    <att name="DESCRIPTION" value="Day1: Causeway bridge- Dolphin lagoon- underwater worldDay2: Jurong Bird ParkDay3: Sentosa- Songs of the seaDay4: Sentosa 4D magix- Images of singapore" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Isle Holiday Singapore" />
+    <att name="LISTPLACES" value="CHIJMES - Singapore Zoo - bumboat River - Palawan Beach - siloso beach - Tanjong Beach - Images of Singapore - Underwater World - Butterfly_insect_kingdom - Siloso Beach - songs of the sea - Equinox Restaurant - " />
+    <att name="DURATION" value="4" />
+    <att name="PLACES" value="12" />
+  </instance>
+  <instance id="Itenery33" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.international-travel-tours.com/singapore-tour-packages/singapore-vacation.html" />
+    <att name="ID" value="34" />
+    <att name="DESCRIPTION" value="Day1: Singapore Botanic Gardens-cable carDay2: Sentosa- Causeway Bridge Day3: Underwater World-Dolphin LagoonDay4: Merlion- Singapore Zoo- Night SafariDay5: Jurong Bird Park" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore Vacation (4 days)" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - Sri Mariamman Temple - Singapore Botanic Gardens - cable car-sentosa - Underwater World - Dolphin Lagoon - Merlion - Causeway Bridge - Jurong Bird Park - " />
+    <att name="DURATION" value="4" />
+    <att name="PLACES" value="19" />
+  </instance>
+  <instance id="Itenery70" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="SG Tourism" />
+    <att name="ID" value="71" />
+    <att name="DESCRIPTION" value="Peranakan museum" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Museum" />
+    <att name="LISTPLACES" value="gem store factory - art retreat museum - asian civilisation museum - changi chapel museum - chinatown heritage centre - images of singapore - " />
+    <att name="DURATION" value="1" />
+    <att name="PLACES" value="6" />
+  </instance>
+  <instance id="Itenery39" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.jc-travel.com.sg/prod02.htm" />
+    <att name="ID" value="40" />
+    <att name="DESCRIPTION" value="Day1: Singapore Botanic Gardens-Shopping OrchardDay2: Sultan Mosque- Arab Street- EsplandeDay3: Parliament House- supreme court and city hall- Lau Pa SatDay4: Underwater worldDay5: Handicraft center- Thian Hock Keng Temple- Duck Tour" />
+    <att name="BUDGET" value="LOW" />
+    <att name="NAME" value="Singapore Tour Package" />
+    <att name="LISTPLACES" value="cable car-sentosa - Underwater World - Merlion - Causeway Bridge - Visit Bank - " />
+    <att name="DURATION" value="5" />
+    <att name="PLACES" value="5" />
+  </instance>
+  <instance id="Itenery38" >
+    <att name="TYPE" value="SHORT TOUR" />
+    <att name="REFERENCE" value="http://www.jc-travel.com.sg/prod01.htm" />
+    <att name="ID" value="39" />
+    <att name="DESCRIPTION" value="Day1: Trishaw-Clarke Quay-Bumboat RiverDay2: Singapore Botanic Gardens-Shopping OrchardDay3: Singapore zoo -Night Safari" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore Tour Package" />
+    <att name="LISTPLACES" value="Cricket club - Parliament House - Supreme court and city Hall - Merlion park - Thian Hock Keng Temple - Handicraft centre - cable car-sentosa - Siloso beach - Songs Of The Sea - Little India arcade - ChinaTown Heritage Centre - Chinatown Night Market - Trishaw - Clarke Quay - Bumboat River - Singapore Botanic Gardens - Shopping Orchard - Night Safari - " />
+    <att name="DURATION" value="3" />
+    <att name="PLACES" value="18" />
+  </instance>
+  <instance id="Itenery37" >
+    <att name="TYPE" value="LONG TOUR" />
+    <att name="REFERENCE" value="http://www.international-travel-tours.com/singapore-tour-packages/singapore-trips.html" />
+    <att name="ID" value="38" />
+    <att name="DESCRIPTION" value="Day1:Underwater World Day2: Butterfly_insect_kingdom-Siloso Beach Day3: Sentosa-  Images of SingaporeDay4: Sentosa 4D magix- Sunset at SentosaDay5: Songs of the sea-Causeway Bridge-haw par villa" />
+    <att name="BUDGET" value="MEDIUM" />
+    <att name="NAME" value="Singapore Trip 8 days" />
+    <att name="LISTPLACES" value="National University of Singapore - Singapore Urban Redevelopment Authority - school tour - gem stone factory - art retreat museum - asian civilisation museum - changi chapel and museum - chinatown heritage centre - images of singapore - old parliament house and the elephant statue - " />
+    <att name="DURATION" value="5" />
+    <att name="PLACES" value="10" />
+  </instance>
+</instances>
+<cb name="CB_csvImport">
+     <case name="Itenery11" />
+     <case name="Itenery12" />
+     <case name="Itenery13" />
+     <case name="Itenery14" />
+     <case name="Itenery15" />
+     <case name="Itenery16" />
+     <case name="Itenery17" />
+     <case name="Itenery18" />
+     <case name="Itenery10" />
+     <case name="Itenery63" />
+     <case name="Itenery62" />
+     <case name="Itenery65" />
+     <case name="Itenery64" />
+     <case name="Itenery61" />
+     <case name="Itenery60" />
+     <case name="Itenery6" />
+     <case name="Itenery7" />
+     <case name="Itenery4" />
+     <case name="Itenery5" />
+     <case name="Itenery2" />
+     <case name="Itenery67" />
+     <case name="Itenery3" />
+     <case name="Itenery66" />
+     <case name="Itenery69" />
+     <case name="Itenery0" />
+     <case name="Itenery68" />
+     <case name="Itenery1" />
+     <case name="Itenery24" />
+     <case name="Itenery25" />
+     <case name="Itenery22" />
+     <case name="Itenery23" />
+     <case name="Itenery28" />
+     <case name="Itenery29" />
+     <case name="Itenery26" />
+     <case name="Itenery27" />
+     <case name="Itenery20" />
+     <case name="Itenery21" />
+     <case name="Itenery19" />
+     <case name="Itenery59" />
+     <case name="Itenery58" />
+     <case name="Itenery41" />
+     <case name="Itenery40" />
+     <case name="Itenery43" />
+     <case name="Itenery42" />
+     <case name="Itenery44" />
+     <case name="Itenery8" />
+     <case name="Itenery9" />
+     <case name="Itenery32" />
+     <case name="Itenery31" />
+     <case name="Itenery30" />
+     <case name="Itenery36" />
+     <case name="Itenery71" />
+     <case name="Itenery35" />
+     <case name="Itenery34" />
+     <case name="Itenery33" />
+     <case name="Itenery70" />
+     <case name="Itenery39" />
+     <case name="Itenery38" />
+     <case name="Itenery37" />
+</cb>
+</Project>

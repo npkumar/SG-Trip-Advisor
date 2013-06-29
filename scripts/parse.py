@@ -14,7 +14,7 @@ def getBudget(days, places):
 
 def getType(days):
     if days > 7.0:
-        return "VERY LONG TOUR"
+        return "VERYLONG TOUR"
     elif days > 3.0:
         return "LONG TOUR"
     else:

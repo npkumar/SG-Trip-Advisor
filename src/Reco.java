@@ -56,15 +56,15 @@ public class Reco {
 		// create a query instance
 		Instance query = ret.getQueryInstance();		
 		// Insert values into the query: Symbolic Description
-		SymbolDesc colorDesc = (SymbolDesc) myConcept.getAllAttributeDescs().get("Budget");
+		SymbolDesc colorDesc = (SymbolDesc) myConcept.getAllAttributeDescs().get("BUDGET");
 		query.addAttribute(colorDesc,colorDesc.getAttribute(budget));
 
 
-		SymbolDesc typeDesc = (SymbolDesc) myConcept.getAllAttributeDescs().get("Type");
+		SymbolDesc typeDesc = (SymbolDesc) myConcept.getAllAttributeDescs().get("TYPE");
 		query.addAttribute(typeDesc,colorDesc.getAttribute(type));
 
 		// Insert values into the query: Float Description
-		IntegerDesc mileageDesc = (IntegerDesc) myConcept.getAllAttributeDescs().get("Places");
+		IntegerDesc mileageDesc = (IntegerDesc) myConcept.getAllAttributeDescs().get("PLACES");
 		try {
 			query.addAttribute(mileageDesc,mileageDesc.getAttribute(numberofplaces));
 		} catch (ParseException e) {
@@ -72,7 +72,7 @@ public class Reco {
 			e.printStackTrace();
 		}
 
-		IntegerDesc durationDesc = (IntegerDesc) myConcept.getAllAttributeDescs().get("Duration");
+		IntegerDesc durationDesc = (IntegerDesc) myConcept.getAllAttributeDescs().get("DURATION");
 		try {
 			query.addAttribute(durationDesc,mileageDesc.getAttribute(duration));
 		} catch (ParseException e) {
@@ -90,7 +90,7 @@ public class Reco {
 			String casename = result.get(0).getFirst().getName();	
 			// get the similarity value
 			Double sim = result.get(0).getSecond().getValue();		
-			answer = "Found "+casename+" with a similarity of "+ sim +" as the best match.";
+			//answer = "Found "+casename+" with a similarity of "+ sim +" as the best match.";
 			
 			answer = answer+"The "+numberofcases+" best cases shown in a table: <br /> <br /> <table border=\"1\">";	
 			
@@ -164,6 +164,11 @@ public class Reco {
 	public String displayWelcomeMessage(){
 		String msg = "";
 		msg="<h3>Welcome to SG Trip Advisor<h3>";
+		
+		String body = "<p>Helps you find the best matching Tour plan " +
+				"in Singapore based on your needs and personal contraints!</p>";
+		msg+=body;
+		
 		return msg;
 	}
 	
