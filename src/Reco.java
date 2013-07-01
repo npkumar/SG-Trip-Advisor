@@ -1,4 +1,3 @@
-
 import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Hashtable;
@@ -20,9 +19,6 @@ import de.dfki.mycbr.core.similarity.Similarity;
 import de.dfki.mycbr.util.Pair;
 
 
-/**
- *  @author the cbr team 
- */
 
 public class Reco {
 
